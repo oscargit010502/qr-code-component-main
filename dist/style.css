@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(212deg, 45%, 89%);
+  width: 100%;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Outfit", sans-serif;
+}
+
+main {
+  width: 270px;
+  height: 450px;
+  border-radius: 20px;
+  background-color: white;
+  padding: 15px;
+  box-shadow: 8px 20px 35px rgba(51, 51, 51, 0.1);
+}
+
+.desktop_img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 700;
+  padding-top: 10px;
+  text-align: center;
+  color: hsl(218deg, 44%, 22%);
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+  padding-bottom: 0;
+  padding-top: 0x;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  color: hsl(220deg, 15%, 55%);
+}/*# sourceMappingURL=style.css.map */
